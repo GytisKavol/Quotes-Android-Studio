@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string-array name="quotes">
+
+        <item> I used to think that the worst thing in life was to end up alone. It\'s not. The worst thing in life is to end up with people who make you feel alone. </item>
+        <item> Why do they call it rush hour when nothing moves? </item>
+        <item> The Second Amendment says we have the right to bear arms, not to bear artillery. </item>
+        <item> Being in the same room with people and creating something together is a good thing. </item>
+        <item> I left school and couldn\'t find acting work, so I started going to clubs where you could do stand-up. I\'ve always improvised, and stand-up was this great release. All of a sudden, it was just me and the audience. </item>
+        <item> I\'m sorry, if you were right, I\'d agree with you. </item>
+        <item> You\'re only given a little spark of madness. You mustn\'t lose it. </item>
+        <item> If it\'s the Psychic Network why do they need a phone number? </item>
+
+        <item> The artist is a receptacle for emotions that come from all over the place: from the sky, from the earth, from a scrap of paper, from a passing shape, from a spider\'s web. </item>
+        <item> Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success. </item>
+        <item> Painting is a blind man\'s profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen. </item>
+        <item> Who sees the human face correctly: the photographer, the mirror, or the painter? </item>
+        <item> Everything you can imagine is real. </item>
+        <item> To copy others is necessary, but to copy oneself is pathetic. </item>
+        <item> Every positive value has its price in negative terms... the genius of Einstein leads to Hiroshima. </item>
+        <item> The purpose of art is washing the dust of daily life off our souls. </item>
+    </string-array>
+
+    <string-array name="authors">
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+        <item> Robin Williams </item>
+
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+        <item> Pablo Picasso </item>
+    </string-array>
+</resources>
